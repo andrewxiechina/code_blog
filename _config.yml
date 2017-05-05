@@ -8,8 +8,8 @@
 # Site settings
 title: Andy Xie
 brief-intro: Entrepreneur | Frontend Developer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io/code_blog" # the base hostname & protocol for your site
+baseurl: "/code_blog" # the subpath of your site, e.g. /blog
+url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
