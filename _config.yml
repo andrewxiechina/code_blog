@@ -7,7 +7,7 @@
 
 # Site settings
 title: Andy Xie
-brief-intro: Entrepreneur | Front-end Dev Engineer
+brief-intro: Entrepreneur | Frontend Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gaohaoyang.github.io/code_blog" # the base hostname & protocol for your site
 
